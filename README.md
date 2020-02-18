@@ -1,2 +1,3 @@
 # Data_Analysis_Project
-Analyzing U.S gov datasets using Pandas,Numpy,Matplotlib,Seaborn and more
+Conducting analysis on OECD statistics database about "share of employed who are managers, by gender"
+
